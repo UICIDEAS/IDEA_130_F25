@@ -1,4 +1,4 @@
-![Cultist Simulator, Alexis Kennedy, 2018](/assets/cs_head.jpg "Cultist Simulator")
+![Cultist Simulator, Alexis Kennedy, 2018](/assets/cs_head.jpg "Cultist Simulator, Alexis Kennedy, 2018")
 
 # IDEA 130. Introduction to Game Studies: Play and Praxis.
 4 hours. CRN: 48571 Fall 2024
