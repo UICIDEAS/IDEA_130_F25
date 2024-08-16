@@ -1,4 +1,4 @@
-<a href="[https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)](https://www.tapsmart.com/wp-content/uploads/2019/04/Cultist-Simulator-5.jpg)">a novel</a>
+![Cultist Simulator, Alexis Kennedy, 2018](/assets/cs_head.jpg "Cultist Simulator")
 
 # IDEA 130. Introduction to Game Studies: Play and Praxis.
 4 hours. CRN: 48571 Fall 2024
