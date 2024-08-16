@@ -1,7 +1,7 @@
 # IDEA 130. Introduction to Game Studies: Play and Praxis.
-4 hours. CRN: 48571 Fall 2023
+4 hours. CRN: 48571 Fall 2024
 
-Instructor: Tiffany Funk Time: Tuesdays, 9-11:30p  
+Instructor: Tiffany Funk Time: T/Th, 9-11:30p  
 Contact/Office: tfunk4@uic.edu / Henry Hall 208C   
 Office Hours: Wednesdays, 10a-12p
 
@@ -12,8 +12,8 @@ This course provides an in-depth introduction to the interdisciplinary field of 
 ## Required Readings and Materials:
 
 - A reliable laptop you can bring to class!
-- Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga (will be provided as a .pdf)
-- Play Matters, Miguel Sicart (2014) (will be provided as a .pdf)
+- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga:](https://a.co/d/fCo6jf3)
+- [Play Matters, Miguel Sicart:](https://a.co/d/1EEDF8p)
 - Selection of scholarly articles and case studies related to Game Studies, Game Theory, and Game Development disciplines
 
 ## Coursework: (100 points total)
