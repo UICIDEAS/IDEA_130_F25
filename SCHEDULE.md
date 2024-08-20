@@ -18,7 +18,7 @@
   - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944) pgs 1-15](readings/huizinga_homoludens_1.pdf)
   
   lecture:
-  - [Week 1: 08.29.24](readings/130_Week_01.pdf)
+  - [Week 1: 08.29.24](readings/130_wk1_F24.pdf)
 
   ### Week 2: Games as Artifacts: Historical Games and Their Relationships to Scientific Disciplines, Cultures, and Social Structures
   readings:
