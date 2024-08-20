@@ -1,6 +1,6 @@
 *This schedule is subject to change; any alterations will appear here and be announced in class.*
 
-## Week 1-2 (08.22.23-08.31.23): Introduction to Game Studies and Its Scope
+## Week 1-2 (08.27.24-09.05.24): Introduction to Game Studies and Its Scope
 
 - Definition of game studies as an interdisciplinary field
 - Historical context and evolution of games
@@ -8,30 +8,40 @@
 - Overview of key concepts: ludology, narratology, gameplay, mechanics, aesthetics
 
   ### Week 1: Introduction to Game Studies: What is "Play"?
+
+  BUY THE FOLLOWING BOOKS:
+- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga:](https://a.co/d/fCo6jf3)
+- [Play Matters, Miguel Sicart:](https://a.co/d/1EEDF8p)
+  
   readings:
   - [Miguel Sicart, "Play Is," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_1.pdf)
   - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944) pgs 1-15](readings/huizinga_homoludens_1.pdf)
   
   lecture:
-  - [Week 1: 08.24.23](readings/130_Week_01.pdf)
+  - [Week 1: 08.29.24](readings/130_Week_01.pdf)
 
   ### Week 2: Games as Artifacts: Historical Games and Their Relationships to Scientific Disciplines, Cultures, and Social Structures
   readings:
   - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
-  
+<!--
+TWEAK LECTURE
   lecture:
-  - [Week 2: 08.29.23](readings/130_Week_02.pdf)
+  - [Week 2: 09.03.24](readings/130_Week_02.pdf)
+-->  
 
-## Week 3-4 (09.05.23-09.14.23): The Historical, Cultural, and Social Significance of Games
+## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games
 - Early forms of play and games
 - Cultural analysis of games
 - Representation in games: gender, ethnicity, and diversity
 - Impact of games on social interactions and relationships
 - Online communities and multiplayer dynamics
 
+<!--
+EDIT NEW GAME ANALYSIS ASSIGNMENT
 assignment (due Week 4):
   - [Game Analysis Presentation](ASSIGNMENTS.md)
+-->
 
   ### Week 3: Why Play Games? What Do Games Do? 
   readings:
@@ -41,14 +51,17 @@ assignment (due Week 4):
   - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
   - [Tanya Depass interview](https://shorturl.at/tvEY3)
 
+<!--
+Create some prompts/questions for these readings
   lecture:
   - [Week 3: 09.05 & 09.07](readings/130_Week_03.pdf)
+  -->
 
   ### Week 4: Representation in Games and Why It Matters
   Presentations due
   [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
 
-## Week 5-6 (09.19.23-09.28.23): Game Theory and Development Principles
+## Week 5-6 (09.19.23-09.28.23): Game Construction and Development Principles
 - Exploring fundamental game design principles
 - Player experience and inclusivity/access
 - Balance, challenge, and reward systems
@@ -58,16 +71,15 @@ assignment (due Week 4):
   ### Week 5: Non-linear narrative games & interactivity
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
-  - [Anthropy, Rise of the Videogame Zinesters, Chaps 1, 2 (pp. 1-42)](readings/antropy_1_2.pdf)
  
   Assignment (due at the end of Week 6, 09.28.23):
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
- 
+<!-- 
   lecture:
   - [Week 5: 09.19 & 09.21](readings/130_Week_05.pdf)
- 
+ -->
   ### Week 6: More about interactivity and game mechanics
   reading:
   - [Edwards, Benj (April 4, 2017). "The Forgotten World of Teletype Computer Games". PC Magazine.](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games)
@@ -79,7 +91,7 @@ assignment (due Week 4):
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
   ### ASSIGNMENT #2 - TWINE GAME - DUE 09.28.23!
-
+<!--
 ## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
 - Understanding gamification and its applications
 - Gamification in education, healthcare, and business
@@ -197,4 +209,6 @@ assignment (due Week 4):
 - Whiner Beer (Wizards ands Whiners): https://www.whinerbeer.com/
 - Prism Games: https://www.prismgameschicago.com
 - Tangible Books: https://tangiblebookschicago.com/
+
+  -->
 
