@@ -61,7 +61,7 @@ Create some prompts/questions for these readings
   Presentations due
   [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
 
-## Week 5-6 (09.19.23-09.28.23): Game Construction and Development Principles
+## Week 5-6 (09.24.24-10.03.24): Game Construction and Development Principles
 - Exploring fundamental game design principles
 - Player experience and inclusivity/access
 - Balance, challenge, and reward systems
@@ -72,7 +72,7 @@ Create some prompts/questions for these readings
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
  
-  Assignment (due at the end of Week 6, 09.28.23):
+  Assignment (due at the end of Week 6, 10.03.24):
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
@@ -90,7 +90,7 @@ Create some prompts/questions for these readings
   - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
-  ### ASSIGNMENT #2 - TWINE GAME - DUE 09.28.23!
+  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.03.24!
 <!--
 ## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
 - Understanding gamification and its applications
