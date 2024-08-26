@@ -10,8 +10,8 @@
   ### Week 1: Introduction to Game Studies: What is "Play"?
 
   BUY THE FOLLOWING BOOKS:
-- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga:](https://a.co/d/fCo6jf3)
-- [Play Matters, Miguel Sicart:](https://a.co/d/1EEDF8p)
+- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga](https://a.co/d/fCo6jf3)
+- [Play Matters, Miguel Sicart](https://a.co/d/1EEDF8p)
   
   readings:
   - [Miguel Sicart, "Play Is," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_1.pdf)
