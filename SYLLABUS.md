@@ -4,11 +4,11 @@
 # IDEA 130. Introduction to Game Studies: Play and Praxis.
 4 hours. CRN: 48571 Fall 2024
 
-Instructor: Tiffany Funk 
-Time: T/Th, 9-11:30p 
-Room: Henry Hall 106
+Instructor: Tiffany Funk  
+Time: T/Th, 9-11:30p  
+Room: Henry Hall 106  
 Contact/Office: tfunk4@uic.edu / Henry Hall 208C   
-Office Hours: Wednesdays, 10a-12p
+Office Hours: Wednesdays, 10a-12p  
 
 ## COURSE DESCRIPTION: 
 
