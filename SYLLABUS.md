@@ -17,8 +17,8 @@ This course provides an in-depth introduction to the interdisciplinary field of 
 ## Required Readings and Materials:
 
 - A reliable laptop you can bring to class!
-- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga:](https://a.co/d/fCo6jf3)
-- [Play Matters, Miguel Sicart:](https://a.co/d/1EEDF8p)
+- [Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga](https://a.co/d/fCo6jf3)
+- [Play Matters, Miguel Sicart](https://a.co/d/1EEDF8p)
 - Selection of scholarly articles and case studies related to Game Studies, Game Theory, and Game Development disciplines
 
 ## Coursework: (100 points total)
