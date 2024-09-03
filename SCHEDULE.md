@@ -24,11 +24,9 @@
   readings:
   - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
-<!--
-TWEAK LECTURE
+
   lecture:
-  - [Week 2: 09.03.24](readings/130_Week_02.pdf)
--->  
+  - [Week 2: 09.03.24](readings/130_wk2_F24.pdf)
 
 ## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games
 - Early forms of play and games
