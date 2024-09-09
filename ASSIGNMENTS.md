@@ -125,7 +125,7 @@ Requirements:
 ## Game Analysis Presentation (Due: Week 4, 9.19.24)
 
 Format: 
-- 5-10 minutes long
+- ~5 minutes long
 - use Google Slides for images
 - videos less than 30 seconds (short clips, please!)
 
