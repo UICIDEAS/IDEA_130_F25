@@ -1,4 +1,4 @@
-## FINAL GAME PROJECT (Due: Thursday, November 30th)
+<!-- ## FINAL GAME PROJECT (Due: Thursday, November 30th)
 
 You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed in class (expanded versions of previous assignments).
 
@@ -121,8 +121,8 @@ Requirements:
 - Use the Twine Cookbook for additional help: https://twinery.org/cookbook/
 - Use the Twine non-linear story platform to create a game.
 - You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
-
-## Game Analysis Presentation (Due: Week 4, 9.12.23-9.14.23)
+-->
+## Game Analysis Presentation (Due: Week 4, 9.19.24)
 
 Format: 
 - 5-10 minutes long
