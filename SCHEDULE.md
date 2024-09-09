@@ -39,8 +39,7 @@
 - Impact of games on social interactions and relationships
 - Online communities and multiplayer dynamics  
 
-assignment (Due end of Week 4):
-  - [Game Analysis Presentation](ASSIGNMENTS.md)
+- assignment (Due end of Week 4): [Game Analysis Presentation](ASSIGNMENTS.md)  
 
   ### Week 3: Why Play Games? What Do Games Do?  
   readings:
@@ -58,13 +57,16 @@ assignment (Due end of Week 4):
   - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
   - [Tanya Depass interview](https://shorturl.at/tvEY3)
 
+  assignment: GAME ANALYSIS PRESENTATIONS DUE
+  
 ## Week 5-6 (09.24.24-10.03.24): Game Construction and Development Principles
+
 - Exploring fundamental game design principles
 - Player experience and inclusivity/access
 - Balance, challenge, and reward systems
 - Game mechanics and dynamics
 - Playtesting and iterative design
-
+<!--
   ### Week 5: Non-linear narrative games & interactivity
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
