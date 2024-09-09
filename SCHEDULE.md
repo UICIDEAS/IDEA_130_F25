@@ -31,26 +31,27 @@
   game:
   - [Everyone is John](readings/eij_v2_2024.pdf)
 
-## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games
+## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games  
+
 - Early forms of play and games
 - Cultural analysis of games
 - Representation in games: gender, ethnicity, and diversity
 - Impact of games on social interactions and relationships
-- Online communities and multiplayer dynamics
+- Online communities and multiplayer dynamics  
 
 assignment (Due end of Week 4):
   - [Game Analysis Presentation](ASSIGNMENTS.md)
 
-  ### Week 3: Why Play Games? What Do Games Do? 
+  ### Week 3: Why Play Games? What Do Games Do?  
   readings:
   - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
-  - [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)
+  - [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)  
 
   lecture:
   - [Week 3: 09.10 & 09.12](readings/130_Week_03_F24.pdf)
 
   game:
-  [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
+  - [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
   
   ### Week 4: Representation in Games and Why It Matters
   readings:
