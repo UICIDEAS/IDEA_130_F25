@@ -27,6 +27,9 @@
 
   lecture:
   - [Week 2: 09.03.24](readings/130_wk2_F24.pdf)
+ 
+  game:
+  - [Everyone is John](readings/eij_v2_2024.pdf)
 
 ## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games
 - Early forms of play and games
@@ -35,29 +38,24 @@
 - Impact of games on social interactions and relationships
 - Online communities and multiplayer dynamics
 
-<!--
-EDIT NEW GAME ANALYSIS ASSIGNMENT
-assignment (due Week 4):
+assignment (Due end of Week 4):
   - [Game Analysis Presentation](ASSIGNMENTS.md)
--->
 
   ### Week 3: Why Play Games? What Do Games Do? 
   readings:
-  - [Johann Huizinga, "Play and Contest as Civilizing Function," in Homo Ludens (Routledge, 1944)](readings/huizinga_homoludens_3.pdf)
+  - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)
 
+  lecture:
+  - [Week 3: 09.10 & 09.12](readings/130_Week_03_F24.pdf)
+
+  game:
+  [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
+  
+  ### Week 4: Representation in Games and Why It Matters
+  readings:
   - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
   - [Tanya Depass interview](https://shorturl.at/tvEY3)
-
-<!--
-Create some prompts/questions for these readings
-  lecture:
-  - [Week 3: 09.05 & 09.07](readings/130_Week_03.pdf)
-  -->
-
-  ### Week 4: Representation in Games and Why It Matters
-  Presentations due
-  [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
 
 ## Week 5-6 (09.24.24-10.03.24): Game Construction and Development Principles
 - Exploring fundamental game design principles
