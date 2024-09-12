@@ -55,7 +55,7 @@
   ### Week 4: Representation in Games and Why It Matters
   readings:
   - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
-  - [Tanya Depass interview](https://shorturl.at/tvEY3)
+  - [Tanya Depass interview]([https://shorturl.at/tvEY3](https://www.youtube.com/live/H-YeiDnEl8E?si=zdhseZw_jLAZjTsS))
 
   assignment: GAME ANALYSIS PRESENTATIONS DUE
   
