@@ -59,7 +59,10 @@
   - [Into the Motherlands RPG](https://cypheroftyr.com/into-the-mother-lands-a-new-sci-fi-odyssey/)
   - [I Need Diverse Games Patreon](https://www.patreon.com/INeedDivGms)  
 
-  assignment: GAME ANALYSIS PRESENTATIONS DUE
+  lecture:
+  - [Week 4: 09.17](readings/130_Week_04_F24.pdf)
+  
+  assignment: GAME ANALYSIS PRESENTATIONS DUE 09.19.24
   
 ## Week 5-6 (09.24.24-10.03.24): Game Construction and Development Principles
 
