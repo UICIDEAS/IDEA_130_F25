@@ -71,7 +71,7 @@
 - Balance, challenge, and reward systems
 - Game mechanics and dynamics
 - Playtesting and iterative design
-<!--
+
   ### Week 5: Non-linear narrative games & interactivity
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
@@ -80,15 +80,14 @@
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
-<!-- 
+
   lecture:
   - [Week 5: 09.19 & 09.21](readings/130_Week_05.pdf)
- -->
+
   ### Week 6: More about interactivity and game mechanics
   reading:
   - [Edwards, Benj (April 4, 2017). "The Forgotten World of Teletype Computer Games". PC Magazine.](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games)
   - [Jerz, Dennis (2007). "Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original "Adventure" in Code and in Kentucky". Digital Humanities Quarterly. 1 (2).](http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html)
-  - Anna Anthropy, Rise of the Videogame Zinesters, Chaps 3, 4 (pp. 43-91)
 
   video:
   - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
