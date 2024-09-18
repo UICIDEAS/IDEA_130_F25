@@ -72,14 +72,12 @@ Examples:
 - https://pippinbarr.com/lets-play-ancient-greek-punishment/
 - https://itch.io/jam/one-button-to-rule-all-jam/entries
 - https://itch.io/jam/2-colors-game-jam/entries
-
-## Twine Game (Due: Week 6, 9.28.23)
-
-#### Upload .html files for Twine games to: https://drive.google.com/drive/folders/1Zhpxje2ak6GCkypWTzuCQUmPe95HRZR-?usp=sharing
+-->
+## Twine Game (Due: Week 6, 10.03.24)
 
 Create a non-linear game using Twine (https://twinery.org/)
 
-Play a few of the text adventure games from the list provided below. Think about how these kinds of games relate to the Anna Anthropy reading.
+Play a few of the text adventure games from the list provided below. Think about how these games are constructed / what the branching narratives look like.
 
 * Crows, Crows, Crows, The Temple of No: https://crowscrowscrows.itch.io/the-temple-of-no
 * Tom Bissel and Matthew S. Burns, The Writer Will Do Something, https://matthewseiji.itch.io/twwds
@@ -120,8 +118,8 @@ Possibly avoid: life simulator, choose your own adventure tropes (walking around
 Requirements:
 - Use the Twine Cookbook for additional help: https://twinery.org/cookbook/
 - Use the Twine non-linear story platform to create a game.
-- You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
--->
+- You can use the downloaded or online version. If you use the online version, you must save your work by choosing the “Publish to File” option in the settings tab. This will download a .html file that can be opened on any computer.
+
 ## Game Analysis Presentation (Due: Week 4, 9.19.24)
 
 Format: 
