@@ -81,9 +81,9 @@
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
 
-  lecture:
+ <!-- lecture:
   - [Week 5: 09.19 & 09.21](readings/130_Week_05.pdf)
-
+-->
   ### Week 6: More about interactivity and game mechanics
   reading:
   - [Edwards, Benj (April 4, 2017). "The Forgotten World of Teletype Computer Games". PC Magazine.](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games)
