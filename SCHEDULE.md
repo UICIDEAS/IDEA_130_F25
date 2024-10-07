@@ -94,6 +94,22 @@
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
   ### ASSIGNMENT #2 - TWINE GAME - DUE 10.03.24!
+
+  ## Week 7-8 (10.03.23-10.12.23: Serious Games and Gamification
+- Understanding gamification and its applications
+- Gamification in education, healthcare, and business
+- Designing games for non-entertainment purposes
+- Ethics and considerations in applied game design
+- Introduction to Game Theory principles
+
+  ### Week 7: Serious Games
+  
+  watch:
+  - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
+ 
+  reading:
+  - Miguel Sicart, "Politics," in Play Matters (MIT Press, 2014): pgs. 71-81
+
 <!--
 ## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
 - Understanding gamification and its applications
