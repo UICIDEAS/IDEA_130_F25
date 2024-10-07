@@ -95,7 +95,7 @@
  
   ### ASSIGNMENT #2 - TWINE GAME - DUE 10.03.24!
 
-  ## Week 7-8 (10.03.23-10.12.23: Serious Games and Gamification
+  ## Week 7-8 (10.08.24-10.17.24): Serious Games and Gamification
 - Understanding gamification and its applications
 - Gamification in education, healthcare, and business
 - Designing games for non-entertainment purposes
