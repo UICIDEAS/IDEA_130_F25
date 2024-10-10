@@ -109,17 +109,21 @@
  
   reading:
   - Miguel Sicart, "Politics," in Play Matters (MIT Press, 2014): pgs. 71-81
+ 
+  ### Week 8: Gamification and Meaningful Interactivity
+
+   reading:
+  - Miguel Sicart, "Toys," and "Playgrounds" in Play Matters (MIT Press, 2014)
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
-  - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf) 
+  - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf)
 
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
 - Conceptualization and prototyping
 - Art and sound design in games
-
-  ### Week 9: Meaningful Interactivity
 <!--
+  ### Week 9: Meaningful Interactivity
   lecture:
   - [Week 9: 10.17.23](readings/130_Week_09.pdf)
  
