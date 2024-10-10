@@ -109,35 +109,8 @@
  
   reading:
   - Miguel Sicart, "Politics," in Play Matters (MIT Press, 2014): pgs. 71-81
-
-<!--
-## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
-- Understanding gamification and its applications
-- Gamification in education, healthcare, and business
-- Designing games for non-entertainment purposes
-- Ethics and considerations in applied game design
-- Introduction to Game Theory principles
-
-  ### Week 7: Playtesting and Applied Game Design
-  resources:
-  - https://boardgamedesignlab.com/playtest-like-a-boss/
-  - https://boardgamedesignlab.com/mechanics/
- 
-  lecture:
-  - [Week 7: 10.05.23](readings/130_Week_07.pdf)
-
-  ### Week 8: Serious Games
-  - discussion of ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
-  
-  watch:
-  - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
- 
-  lecture:
-  - [Week 8: 10.10.23](readings/130_Week_08.pdf)
-  
-  reading:
-  - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
-
+  - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
+  - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf) 
 
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
@@ -146,7 +119,7 @@
 - Art and sound design in games
 
   ### Week 9: Meaningful Interactivity
-
+<!--
   lecture:
   - [Week 9: 10.17.23](readings/130_Week_09.pdf)
  
