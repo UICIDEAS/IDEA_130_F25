@@ -23,10 +23,10 @@ Steps:
 2. Keep a development journal for your game. It doesn't need to be long or in-depth, but should log the time you spent working on it, and your wins or frustrations during the process. This is also "best practices" and provides helpful tips for yourself when engaging with the project both in the present and future.
 
 3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
+-->
+## THREE COLOR GAME ASSIGNMENT (Due: 10.29.24)
 
-## ONE BUTTON GAME ASSIGNMENT --OR-- TWO COLOR GAME ASSIGNMENT (Due: 11.02.23)
-
-Creating a game with restrictions is not only a design challenge meant to think about what constitutes meaningful interactivity (see: Saten & Zimmerman), but also forces a game developer to consider disability and gaming. 
+Creating a game with restrictions is not only a design challenge meant to consider what constitutes meaningful interactivity (see Saten & Zimmerman) but also forces a game developer to consider disability and gaming. 
 
 - Because of mobility challenges, some gamers find it difficult to master the crazy button-mashing of some AAA games (that is, the big game companies that make some of the most popular games). A one-button game would be far more accessible to this kind of gamer.
 
@@ -36,7 +36,7 @@ Creating a game with restrictions is not only a design challenge meant to think 
 
 (For more on designing for gamers with disabilities: https://playabilityinitiative.com/).
 
-Your assignment is to construct either a ONE BUTTON GAME, or a TWO COLOR GAME. 
+Your assignment is to construct a TWO or THREE COLOR GAME USING BITSY (https://bitsy.org/). 
 
 ### ONE BUTTON GAME: 
 
@@ -46,33 +46,32 @@ Consider how to integrate the action of clicking or depressing a button (a mouse
 
 Consider how to limit your palette to two contrasting colors while integrating the restricted palette with a narrative/game mechanic. 
 
-1. Use one of the following tools:
+1. Consult Bitsy and the Shimmerwitch tutorial:
 
 - Bitsy (https://bitsy.org/)
-- Pulp (https://play.date/pulp/)
-- Pico-8 (https://www.lexaloffle.com/pico-8.php)
-- Twine (https://twinery.org/)
+- https://www.shimmerwitch.space/bitsyTutorial.html
 
 2. Keep it simple!
 
-A game with a very simple premise, no matter how short, could be very gratifying. Don't feel the need to create a sprawling narrative with multiple characters and scenes! 
+No matter how short, a game with a very simple premise could be very gratifying. Don't feel the need to create a sprawling narrative with multiple characters and scenes! 
 
 Tips:
 
-For a one-button game: consider the smallest gesture—a wave, tapping your foot, sneezing, smiling, breathing—and how these might constitute a mini-game.
-
-For a two-color game: consider circumstances where you would be limited to light and dark vision (perhaps in the dark, underwater). Consider the use of patterns, silhouettes, and well-timed movement.
-
-NOTE:
-
-If you have an idea for a "one button game" that uses a different game-making software, or is essentially analog (NOT a video game), I'd like to hear it! Let me know what you're thinking (tfunk4@uic.edu)!
+For a two/three-color game: consider circumstances where you would be limited to light and dark vision (perhaps in the dark, underwater). Consider the use of patterns, silhouettes, and well-timed movement.
 
 Examples:
 
 - https://pippinbarr.com/lets-play-ancient-greek-punishment/
-- https://itch.io/jam/one-button-to-rule-all-jam/entries
-- https://itch.io/jam/2-colors-game-jam/entries
--->
+- itch.io, search "Bitsy"
+- Last year's student examples:
+-     http://tiffanyfunk.com/bellooch/
+-     https://tiffanyfunk.com/parched/
+-     https://tiffanyfunk.com/parched/
+- My demo examples:
+-     https://funkstart.itch.io/punk-show
+-     https://funkstart.itch.io/old-macdonald
+-     https://funkstart.itch.io/i-went-to-mars
+
 ## Twine Game (Due: Week 6, 10.03.24)
 
 Create a non-linear game using Twine (https://twinery.org/)
