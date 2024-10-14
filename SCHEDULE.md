@@ -116,6 +116,9 @@
   - Miguel Sicart, "Toys," and "Playgrounds" in Play Matters (MIT Press, 2014)
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
   - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf)
+ 
+  ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/29/24
+  - https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md
 
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
