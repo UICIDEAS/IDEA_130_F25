@@ -38,10 +38,6 @@ Creating a game with restrictions is not only a design challenge meant to consid
 
 Your assignment is to construct a TWO or THREE COLOR GAME USING BITSY (https://bitsy.org/). 
 
-### ONE BUTTON GAME: 
-
-Consider how to integrate the action of clicking or depressing a button (a mouse or trackpad touch, a key, spacebar, etc.) might be narratively or strategically embedded in game play. Consider the examples in the "One Button Game" chapter handout, or the examples below.
-
 ### TWO COLOR GAME: 
 
 Consider how to limit your palette to two contrasting colors while integrating the restricted palette with a narrative/game mechanic. 
@@ -64,13 +60,13 @@ Examples:
 - https://pippinbarr.com/lets-play-ancient-greek-punishment/
 - itch.io, search "Bitsy"
 - Last year's student examples:
--     http://tiffanyfunk.com/bellooch/
--     https://tiffanyfunk.com/parched/
--     https://tiffanyfunk.com/parched/
+http://tiffanyfunk.com/bellooch/
+https://tiffanyfunk.com/parched/
+https://tiffanyfunk.com/parched/
 - My demo examples:
--     https://funkstart.itch.io/punk-show
--     https://funkstart.itch.io/old-macdonald
--     https://funkstart.itch.io/i-went-to-mars
+https://funkstart.itch.io/punk-show
+https://funkstart.itch.io/old-macdonald
+https://funkstart.itch.io/i-went-to-mars
 
 ## Twine Game (Due: Week 6, 10.03.24)
 
