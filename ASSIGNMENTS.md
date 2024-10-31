@@ -31,28 +31,27 @@ Try your hand at writing a one-page TTRPG!
 
 Some tips:
 
-- Decide what kind of game you want to make first. Do you want it to be sci-fi, rom-com, horror, fantasy?
-- What will the player leave play with? Does it lead a player in creating a poem, a sketch, a dungeon, or a journal entry?
-- Directed solo games often work much like a choose-your-own-adventure book where you play through a solid story arc whose events change slightly with each replay but generally comes to the same end.
-- Open solo games generally give the player a toolset to creatively bounce off of (like a table of prompts or questions) so that they will get a unique story.
-- PLAY A FEW GAMES SEVERAL TIMES. See what kind of solo games you like, and which you don't.
+- Decide what kind of game you want to make first. Do you want it to be sci-fi, rom-com, horror, fantasy?  
+- What will the player leave play with? Does it lead a player in creating a poem, a sketch, a dungeon, or a journal entry?  
+- Directed solo games often work much like a choose-your-own-adventure book where you play through a solid story arc whose events change slightly with each replay but generally comes to the same end.  
+- Open solo games generally give the player a toolset to creatively bounce off of (like a table of prompts or questions) so that they will get a unique story.  
+- PLAY A FEW GAMES SEVERAL TIMES. See what kind of solo games you like, and which you don't.  
 
 Here are some tools to help you get started:
 
-https://penguinking.com/indie-rpg-prompt-generator/
-https://inflatablestudios.itch.io/one-page-solo-engine
+https://penguinking.com/indie-rpg-prompt-generator/  
+https://inflatablestudios.itch.io/one-page-solo-engine  
 
 ... and here are some examples:
 
-Dungeons and Business Cards: https://arispen.itch.io/dnbc
+- Dungeons and Business Cards: https://arispen.itch.io/dnbc  
+- [Dog the RPG](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Dog%20the%20RPG.pdf)  
+- [Alone in the House](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/solottrpg/AloneInTheHouse.pdf)  
+- [Sexy Battle Wizards](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Sexy%20Battle%20Wizards-rotated.pdf)  
+- [Honey Heist](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Honey%20Heist%20-%20By%20Grant%20Howitt.pdf)  
+- [The Witch is Dead](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/The%20Witch%20is%20Dead.pdf)  
 
-[Dog the RPG](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Dog%20the%20RPG.pdf)
-[Alone in the House](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/solottrpg/AloneInTheHouse.pdf)
-[Sexy Battle Wizards](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Sexy%20Battle%20Wizards-rotated.pdf)
-[Honey Heist](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/Honey%20Heist%20-%20By%20Grant%20Howitt.pdf)
-[The Witch is Dead](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/The%20Witch%20is%20Dead.pdf)
-
-... (and MORE!!!!11!)[https://github.com/UICIDEAS/IDEA_130_F24/tree/main/readings/solottrpg)
+... (and MORE!!!!11!)[https://github.com/UICIDEAS/IDEA_130_F24/tree/main/readings/solottrpg)  
 
 ## THREE COLOR GAME ASSIGNMENT (Due: 10.29.24)
 
