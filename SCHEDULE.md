@@ -125,34 +125,24 @@
 - Introduction to game engines and tools
 - Conceptualization and prototyping
 - Art and sound design in games
-<!--
+
   ### Week 9: Meaningful Interactivity
   lecture:
   - [Week 9: 10.17.23](readings/130_Week_09.pdf)
  
   readings:
-  - ["One Button Game," in Code as Creative Medium, Golan Levin and Tega Brain](readings/one_button.pdf)
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
   - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf) 
-  
-  Assignment: The "One Button Game" (due: 10.31.23)
 
   ### Week 10: Choosing the Right Tools
 
-    lecture:
-  - [Week 10: 10.24.23](readings/130_Week_10.pdf)
+Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md#solo-ttrpg-table-top-role-playing-game-assignment-due-thursday-november-7th
+  
+  - Access the [SOLO TTRPG FOLDER](readings/solottrpg)
+  - Play two or more, saving your journals.
+  - Create a solo TTRPG! (Due Nov. 7th!)
 
-  game tools:
-  - Pico8 https://www.lexaloffle.com/pico-8.php
-  - Bitsy https://make.bitsy.org/
-  - Pulp https://play.date/pulp/
-  - Twine https://twinery.org/
-
-  resources:
-  - https://nerdyteachers.com/PICO-8/Guide/
-  - https://www.shimmerwitch.space/bitsyTutorial.html
-  - https://bitsy.fandom.com/wiki/Tutorials
-
+<!--
 ## Week 11-12 (10.31.23-11.09.23): Game Theory and Game Dev
 
   - simple intro to some Game Theory concepts, its use and limitations
@@ -167,12 +157,9 @@
   Assignment due: November 2nd, by class time (9:00a)!
 
 ### Week 12: Going Solo
+-->
 
-  Assignment: SOLO TTRPG
-  - Access the [SOLO TTRPG FOLDER](readings/solottrpg)
-  - Play two or more, saving your journals.
-  - We will discuss these games together.
-
+<!--
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
 - Impact of artificial intelligence (AI) on game design
