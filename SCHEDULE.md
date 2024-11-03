@@ -120,7 +120,7 @@
   ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/29/24
   - https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md
 
-## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
+## Week 9-10 (10.22.24-10.31.24): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
 - Conceptualization and prototyping
@@ -134,7 +134,7 @@
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
   - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf) 
 
-  ### Week 10: Choosing the Right Tools
+  ### Week 10: Going Solo!
 
 Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md#solo-ttrpg-table-top-role-playing-game-assignment-due-thursday-november-7th
   
@@ -142,8 +142,7 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIG
   - Play two or more, saving your journals.
   - Create a solo TTRPG! (Due Nov. 7th!)
 
-<!--
-## Week 11-12 (10.31.23-11.09.23): Game Theory and Game Dev
+## Week 11-12 (11.05.24-11.14.24): Game Theory and Game Dev
 
   - simple intro to some Game Theory concepts, its use and limitations
   - linking Game Theory and Game Studies as disciplines
@@ -151,13 +150,10 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIG
     
 ### Week 11: Intro to Game Theory - Game Theory for Games Developers (and how it relates to Game Studies)
   
-  lecture:
-- [Week 11: 10.31.23](readings/130_Week_11.pdf)
+- Reading in class: Binmore Introduction to Game Theory
+-  Solo TTRPG due: November 7th!
 
-  Assignment due: November 2nd, by class time (9:00a)!
-
-### Week 12: Going Solo
--->
+### Week 12: Choosing the Right Tools - Final Project Introduction
 
 <!--
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
