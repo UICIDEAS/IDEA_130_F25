@@ -150,7 +150,7 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIG
     
 ### Week 11: Intro to Game Theory - Game Theory for Games Developers (and how it relates to Game Studies)
   
-- Reading in class: Binmore Introduction to Game Theory
+- Reading in class: Binmore Introduction to Game Theory: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/binmore-game-theory.pdf
 -  Solo TTRPG due: November 7th!
 
 ### Week 12: Choosing the Right Tools - Final Project Introduction
