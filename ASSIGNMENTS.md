@@ -16,12 +16,12 @@ For Bitsy
 - https://www.shimmerwitch.space/bitsyTutorial.html
 - https://bitsy.fandom.com/wiki/Bitsy_Wiki
 
-Twine
-- http://twinery.org/cookbook/
+Twine 
+- http://twinery.org/cookbook/  
 
-Basic Roleplaying Guidebook:
+[Basic Roleplaying Guidebook](readings/CHA2036_-_Basic_Roleplaying_-_Universal_Game_Engine_-_V102_(39776661).pdf). 
 
-Renpy (visual novel creator):
+Renpy (visual novel creator):  
 - https://www.renpy.org/doc/html/quickstart.html
 
 Steps:
