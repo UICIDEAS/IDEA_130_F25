@@ -1,6 +1,6 @@
-<!-- ## FINAL GAME PROJECT (Due: Thursday, November 30th)
+## FINAL GAME PROJECT (Proposals Due: Thursday, November 14th; Final Due: Tuesday, December 3rd)
 
-You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed in class (expanded versions of previous assignments).
+You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed for class (expanded versions of previous assignments).
 
 Your final game project should reflect subjects covered in previous weeks by addressing one (or more) of the following:
 
@@ -16,6 +16,14 @@ For Bitsy
 - https://www.shimmerwitch.space/bitsyTutorial.html
 - https://bitsy.fandom.com/wiki/Bitsy_Wiki
 
+Twine
+- http://twinery.org/cookbook/
+
+Basic Roleplaying Guidebook:
+
+Renpy (visual novel creator):
+- https://www.renpy.org/doc/html/quickstart.html
+
 Steps:
 
 1. Write a short proposal that explains briefly your goals for your game, and which of the above it addresses. We will discuss these in class (November 14). (Note: you can start working on the game itself before then, but a short description of the game with notes is "best practices" and will help in the planning process). Include a justification for the method/tools you will use to construct the game.
@@ -24,7 +32,7 @@ Steps:
 
 3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
 
--->
+
 ## SOLO TTRPG (Table Top Role-Playing Game) ASSIGNMENT (Due Thursday, November 7th!)
 
 Try your hand at writing a one-page TTRPG! 
