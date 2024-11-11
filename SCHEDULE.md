@@ -155,6 +155,8 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIG
 
 ### Week 12: Choosing the Right Tools - Final Project Introduction
 
+Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md#final-game-project-proposals-due-thursday-november-14th-final-due-tuesday-december-3rd
+
 <!--
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
