@@ -2,13 +2,13 @@
 *Cultist Simulator*, Alexis Kennedy, 2019
 
 # IDEA 130. Introduction to Game Studies: Play and Praxis.
-4 hours. CRN: 48571 Fall 2024
+4 hours. CRN: 48571 Fall 2025
 
 Instructor: Tiffany Funk  
 Time: T/Th, 9-11:30p  
-Room: Henry Hall 106  
+Room: Art & Exhibition Hall 3204
 Contact/Office: tfunk4@uic.edu / Henry Hall 208C   
-Office Hours: Wednesdays, 10a-12p  
+Office Hours: Tuesday, 12-2p  
 
 ## COURSE DESCRIPTION: 
 
