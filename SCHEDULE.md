@@ -1,6 +1,6 @@
 *This schedule is subject to change; any alterations will appear here and be announced in class.*
 
-## Week 1-2 (08.27.24-09.05.24): Introduction to Game Studies and Its Scope
+## Week 1-2 (08.26-09.04): Introduction to Game Studies and Its Scope
 
 - Definition of game studies as an interdisciplinary field
 - Historical context and evolution of games
@@ -18,7 +18,7 @@
   - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944) pgs 1-15](readings/huizinga_homoludens_1.pdf)
   
   lecture:
-  - [Week 1: 08.29.24](readings/130_wk1_F24.pdf)
+  - [Week 1: 08.28](readings/130_wk1_F24.pdf)
 
   ### Week 2: Games as Artifacts: Historical Games and Their Relationships to Scientific Disciplines, Cultures, and Social Structures
   readings:
@@ -26,12 +26,12 @@
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
 
   lecture:
-  - [Week 2: 09.03.24](readings/130_wk2_F24.pdf)
+  - [Week 2: 09.02](readings/130_wk2_F.pdf)
  
   game:
   - [Everyone is John](readings/eij_v2_2024.pdf)
 
-## Week 3-4 (09.10.24-09.19.24): The Historical, Cultural, and Social Significance of Games  
+## Week 3-4 (09.09-09.18): The Historical, Cultural, and Social Significance of Games  
 
 - Early forms of play and games
 - Cultural analysis of games
@@ -47,7 +47,7 @@
   - [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)  
 
   lecture:
-  - [Week 3: 09.10 & 09.12](readings/130_Week_03_F24.pdf)
+  - [Week 3: 09.09 & 09.11](readings/130_Week_03_F24.pdf)
 
   game:
   - [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
@@ -60,11 +60,11 @@
   - [I Need Diverse Games Patreon](https://www.patreon.com/INeedDivGms)  
 
   lecture:
-  - [Week 4: 09.17](readings/130_Week_04_F24.pdf)
+  - [Week 4: 09.16](readings/130_Week_04_F24.pdf)
   
-  assignment: GAME ANALYSIS PRESENTATIONS DUE 09.19.24
+  assignment: GAME ANALYSIS PRESENTATIONS DUE 09.18
   
-## Week 5-6 (09.24.24-10.03.24): Game Construction and Development Principles
+## Week 5-6 (09.23-10.02): Game Construction and Development Principles
 
 - Exploring fundamental game design principles
 - Player experience and inclusivity/access
@@ -76,13 +76,13 @@
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
  
-  Assignment (due at the end of Week 6, 10.03.24):
+  Assignment (due at the end of Week 6, 10.02):
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
 
   reading guide:
-  - [Week 5: 09.24 & 09.26](readings/130_Week_05_F24.pdf)
+  - [Week 5: 09.23 & 09.25](readings/130_Week_05_F24.pdf)
 
   ### Week 6: More about interactivity and game mechanics
   reading:
@@ -93,9 +93,9 @@
   - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
-  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.03.24!
+  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.02!
 
-  ## Week 7-8 (10.08.24-10.17.24): Serious Games and Gamification
+  ## Week 7-8 (10.07-10.16): Serious Games and Gamification
 - Understanding gamification and its applications
 - Gamification in education, healthcare, and business
 - Designing games for non-entertainment purposes
@@ -117,10 +117,10 @@
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
   - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf)
  
-  ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/29/24
-  - https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md
+  ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/28
+  - https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIGNMENTS.md
 
-## Week 9-10 (10.22.24-10.31.24): Game Creation Methods
+## Week 9-10 (10.21-10.30): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
 - Conceptualization and prototyping
@@ -128,7 +128,7 @@
 
   ### Week 9: Meaningful Interactivity
   lecture:
-  - [Week 9: 10.17.23](readings/130_Week_09.pdf)
+  - [Week 9: 10.21](readings/130_Week_09.pdf)
  
   readings:
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
@@ -136,13 +136,13 @@
 
   ### Week 10: Going Solo!
 
-Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md#solo-ttrpg-table-top-role-playing-game-assignment-due-thursday-november-7th
+Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIGNMENTS.md#solo-ttrpg-table-top-role-playing-game-assignment-due-thursday-november-7th
   
   - Access the [SOLO TTRPG FOLDER](readings/solottrpg)
   - Play two or more, saving your journals.
-  - Create a solo TTRPG! (Due Nov. 7th!)
+  - Create a solo TTRPG! (Due Nov. 6th!)
 
-## Week 11-12 (11.05.24-11.14.24): Game Theory and Game Dev
+## Week 11-12 (11.04-11.13): Game Theory and Game Dev
 
   - simple intro to some Game Theory concepts, its use and limitations
   - linking Game Theory and Game Studies as disciplines
@@ -150,23 +150,24 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIG
     
 ### Week 11: Intro to Game Theory - Game Theory for Games Developers (and how it relates to Game Studies)
   
-- Reading in class: Binmore Introduction to Game Theory: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/binmore-game-theory.pdf
--  Solo TTRPG due: November 7th!
+- Reading in class: Binmore Introduction to Game Theory: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/readings/binmore-game-theory.pdf
+-  Solo TTRPG due: November 6th!
 
 ### Week 12: Choosing the Right Tools - Final Project Introduction
 
-Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/ASSIGNMENTS.md#final-game-project-proposals-due-thursday-november-14th-final-due-tuesday-december-3rd
+Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIGNMENTS.md#final-game-project-proposals-due-thursday-november-14th-final-due-tuesday-december-3rd
 
-<!--
-## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
+## Week 13-14 (11.18-11.25): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
 - Impact of artificial intelligence (AI) on game design
 - Ethical considerations in game development and consumption
 - Speculating on the future of game studies and the gaming industry
 
-## Week 15-16 (11.28.23-12.07.23): Building Communities in Video Games
+## THANKSGIVING BREAK (11/26-11/28)
 
-#### Final Game Project (due: November 30th)
+## Week 15 (12.02-12.04): Building Communities in Video Games
+
+#### Final Game Project (due: Dec 2nd)
 
   - See "Assignments" for instructions.
 
@@ -193,6 +194,4 @@ Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F24/blob/main/AS
 - Whiner Beer (Wizards ands Whiners): https://www.whinerbeer.com/
 - Prism Games: https://www.prismgameschicago.com
 - Tangible Books: https://tangiblebookschicago.com/
-
-  -->
 
