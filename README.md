@@ -1,13 +1,13 @@
 # IDEA 130: Intro to Game Studies
 
 
-### Overview for Fall 2024
+### Overview for Fall 2025
 
-Welcome to IDEA 130 for Fall 2024!
+Welcome to IDEA 130 for Fall 2025!
 
 All course information is shared on the class website:
 
-https://github.com/UICIDEAS/IDEA_130_F24/tree/main
+https://github.com/UICIDEAS/IDEA_130_F25/tree/main
 
 Bookmark this site to access the course [syllabus](/SYLLABUS.md) and [schedule](/SCHEDULE.md). These will be updated regularly as the semester progresses.
 
