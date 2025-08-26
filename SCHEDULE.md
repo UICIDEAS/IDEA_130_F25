@@ -1,6 +1,6 @@
 *This schedule is subject to change; any alterations will appear here and be announced in class.*
 
-![Pentiment](assets/sddefault.jpg)
+![Pentiment](assets/sddefault.jpg)  
 Pentiment, 2022, Obsidian Entertainment
 
 ## Week 1-2 (08.26-09.04): Introduction to Game Studies and Its Scope
