@@ -79,7 +79,7 @@ Pentiment, 2022, Obsidian Entertainment
   readings:
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
  
-  Assignment (due at the end of Week 6, 10.02):
+  Assignment (due at the beginning of Week 8, 10.14):
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
@@ -96,7 +96,7 @@ Pentiment, 2022, Obsidian Entertainment
   - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
-  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.02!
+  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.14!
 
   ## Week 7-8 (10.07-10.16): Serious Games and Gamification
 - Understanding gamification and its applications
