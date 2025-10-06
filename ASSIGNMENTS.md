@@ -102,8 +102,8 @@ https://tiffanyfunk.com/parched/
 https://funkstart.itch.io/punk-show
 https://funkstart.itch.io/old-macdonald
 https://funkstart.itch.io/i-went-to-mars
-
-## Twine Game (Due: Week 6, 10.03.24)
+-->
+## Twine Game (Due: Week 8, 10.14.25)
 
 Create a non-linear game using Twine (https://twinery.org/)
 
@@ -116,7 +116,6 @@ Play a few of the text adventure games from the list provided below. Think about
 * Michael Lutz, my father's long long legs: http://correlatedcontents.com/misc/Father.html
 * Michael Lutz, Tower of the Blood Lord: http://correlatedcontents.com/misc/Tower.html
 * Michael Lutz, The Uncle Who Works for Nintendo: https://ztul.itch.io/the-uncle-who-works-for-nintendo
-* Tiffany Funk, Teeth Monster: https://tiffanyfunk.com/teethmonster/
 * Andrew Plotkin, Bigger Than You Think, https://eblong.com/zarf/zweb/btyt/
 * Elizabeth Smyth, Bogeyman: http://ifarchive.org/if-archive/games/competition2018/Bogeyman/bogeyman.html
 * Porpentine, With Those We Love Alive: http://aliendovecote.com/uploads/twine/empress/empress.html
@@ -149,7 +148,7 @@ Requirements:
 - Use the Twine Cookbook for additional help: https://twinery.org/cookbook/
 - Use the Twine non-linear story platform to create a game.
 - You can use the downloaded or online version. If you use the online version, you must save your work by choosing the “Publish to File” option in the settings tab. This will download a .html file that can be opened on any computer.
--->
+
 ## Game Analysis Presentation (Due: Week 4, 9.18)
 
 Format: 
