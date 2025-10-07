@@ -149,6 +149,16 @@ Requirements:
 - Use the Twine non-linear story platform to create a game.
 - You can use the downloaded or online version. If you use the online version, you must save your work by choosing the “Publish to File” option in the settings tab. This will download a .html file that can be opened on any computer.
 
+Resources:
+Vegetarian Zombie tutorials: 
+  - Part 1 helps you get started with downloading Twine, choosing a story format, and starting and saving a new story: https://www.youtube.com/watch?v=YDUU5yZq4og&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=2  
+  - Part 2 focuses on text styling with markdown and proper syntax: https://www.youtube.com/watch?v=Tad1V8q-FsY&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=3  
+  - Part 3 introduces you to Passages, which help you form the story architecture and connect your story: https://www.youtube.com/watch?v=Tad1V8q-FsY&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=3  
+  - Part 4 walks you through using macros in Twine and basic coding: https://www.youtube.com/watch?v=xYetQV4Jy6E&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=4
+
+Other games made in Twine:
+- https://itch.io/games/made-with-twine  
+    
 ## Game Analysis Presentation (Due: Week 4, 9.18)
 
 Format: 
