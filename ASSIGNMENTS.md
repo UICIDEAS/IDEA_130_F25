@@ -150,6 +150,7 @@ Requirements:
 - You can use the downloaded or online version. If you use the online version, you must save your work by choosing the “Publish to File” option in the settings tab. This will download a .html file that can be opened on any computer.
 
 Resources:
+Harlowe cookbook: https://twine2.neocities.org/  
 Vegetarian Zombie tutorials: 
   - Part 1 helps you get started with downloading Twine, choosing a story format, and starting and saving a new story: https://www.youtube.com/watch?v=YDUU5yZq4og&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=2  
   - Part 2 focuses on text styling with markdown and proper syntax: https://www.youtube.com/watch?v=Tad1V8q-FsY&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=3  
