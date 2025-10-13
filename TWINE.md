@@ -7,14 +7,13 @@ These are a few helpful tips and tricks for building your Twine game.
 ## Links
 The most basic part of making a text adventure is linking passages to one another. The syntax looks like this:
 
-![Twine links](assets/twine_link.png)  
+<img src="assets/twine_link.png" alt="Twine links" width="600"> 
 
 ## Styles
 Styling your text might also add to the flavor of your game.
 
- <img src="assets/twine_style.png" alt="Twine styles" width="400"> 
-![Twine styles](assets/twine_style.png)  
-![Twine styling text](assets/twine_textstyle.png)  
+<img src="assets/twine_style.png" alt="Twine styles" width="600">
+<img src="assets/twine_textstyle.png" alt="Twine text styles" width="600"> 
 
 ### CSS and styling
 This is an example of a CSS stylesheet. You can change the look of an entire story by editing the stylesheet for your Twine game. Go to the menu, find "Story," then # Stylesheet. 
@@ -44,21 +43,21 @@ tw-link:hover, enchantment-link:hover /* sets both hover link colors */
 ## Transitions
 You can also change the way one passage transitions to another.
 
-![Twine transitions](assets/twine_transitions.png)  
+<img src="assets/twine_transitions.png" alt="Twine transitions" width="600"> 
 
 ## Variables and Conditionals
 While the functionality of building a text adventure game is mostly in linking one passage to the next, you can create things like variables and branching sequences (conditionals) that change the nature of your game. 
 
-![Twine creating variables](assets/twine_set.png)  
-![Twine printing out variables and strings](assets/twine_print.png)  
-![Twine if statements](assets/twine_if.png)  
-![Twine else-if statements](assets/twine_else-if.png)  
-![Twine else statements](assets/twine_else.png)  
+<img src="assets/twine_set.png" alt="Twine variables" width="600">
+<img src="assets/twine_print.png" alt="Twine print" width="600">
+<img src="assets/twine_if.png" alt="Twine if statements" width="600">
+<img src="assets/twine_else-if.png" alt="Twine else-if statements" width="600">
+<img src="assets/twine_else.png" alt="Twine else statements" width="600">
 
 ## HTML
 If you have skills in HTML, you can use that syntax right in the TWINE passages as well.
 
-![alt text](assets/twine_html.png)  
+<img src="assets/twine_html.png" alt="Twine HTML" width="600">
 
 ## Images
 If you want to add images:
