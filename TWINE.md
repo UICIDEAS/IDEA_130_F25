@@ -12,6 +12,7 @@ The most basic part of making a text adventure is linking passages to one anothe
 ## Styles
 Styling your text might also add to the flavor of your game.
 
+ <img src="assets/twine_style.png" alt="Twine styles" width="400"> 
 ![Twine styles](assets/twine_style.png)  
 ![Twine styling text](assets/twine_textstyle.png)  
 
