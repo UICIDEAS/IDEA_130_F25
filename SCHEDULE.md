@@ -3,8 +3,8 @@
 ![Pentiment](assets/sddefault.jpg)  
 Pentiment, 2022, Obsidian Entertainment
 
-[Week 1-2](##Week 1-2)
-[Week 3-4](##Week 3-4
+[Week 1-2](##week-1-2)
+[Week 3-4](###week-3-4-(09.09-09.18):-the-historical,-cultural,-and-social-significance-of-games)
 Week 5-6
 Week 7-8
 Week 9-10
