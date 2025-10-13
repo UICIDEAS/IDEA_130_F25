@@ -105,7 +105,9 @@ Pentiment, 2022, Obsidian Entertainment
   - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
     note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
  
-  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.14!
+  ### ASSIGNMENT #2 - TWINE GAME - DUE 10.14/10.16!
+
+  [TWINE TIPS AND TRICKS](https://github.com/UICIDEAS/IDEA_130_F25/edit/main/TWINE.md)
 
   ## Week 7-8 (10.07-10.16): Serious Games and Gamification
 - Understanding gamification and its applications
