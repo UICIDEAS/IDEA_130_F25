@@ -3,6 +3,14 @@
 ![Pentiment](assets/sddefault.jpg)  
 Pentiment, 2022, Obsidian Entertainment
 
+[Week 1-2](## Week 1-2)
+Week 3-4
+Week 5-6
+Week 7-8
+Week 9-10
+Week 11-12
+Week 13-14
+
 ## Week 1-2 (08.26-09.04): Introduction to Game Studies and Its Scope
 
 - Definition of game studies as an interdisciplinary field
