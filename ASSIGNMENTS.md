@@ -106,6 +106,7 @@ https://funkstart.itch.io/i-went-to-mars
 ## Twine Game (Due: Week 8, 10.14.25)
 
 Create a non-linear game using Twine (https://twinery.org/)
+https://github.com/UICIDEAS/IDEA_130_F25/blob/main/TWINE.md
 
 Play a few of the text adventure games from the list provided below. Think about how these games are constructed / what the branching narratives look like.
 
