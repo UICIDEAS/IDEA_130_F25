@@ -63,6 +63,8 @@ https://inflatablestudios.itch.io/one-page-solo-engine
 -->
 ## THREE COLOR GAME ASSIGNMENT (Due: 10.30.25)
 
+### Create a Bitsy game - a pixel game - with only three colors.
+
 Creating a game with restrictions is not only a design challenge meant to consider what constitutes meaningful interactivity (see Saten & Zimmerman) but also forces a game developer to consider disability and gaming. 
 
 - Because of mobility challenges, some gamers find it difficult to master the crazy button-mashing of some AAA games (that is, the big game companies that make some of the most popular games). A one-button game would be far more accessible to this kind of gamer.
@@ -90,7 +92,7 @@ Tips:
 
 For a two/three-color game: consider circumstances where you would be limited to light and dark vision (perhaps in the dark, underwater). Consider the use of patterns, silhouettes, and well-timed movement.
 
-Examples:
+### Examples:
 
 - https://pippinbarr.com/lets-play-ancient-greek-punishment/
 - itch.io, search "Bitsy"
@@ -105,7 +107,7 @@ https://funkstart.itch.io/i-went-to-mars
 
 ## Twine Game (Due: Week 8, 10.14.25)
 
-Create a non-linear game using Twine (https://twinery.org/)  
+### Create a non-linear game using Twine (https://twinery.org/)  
 https://github.com/UICIDEAS/IDEA_130_F25/blob/main/TWINE.md
 
 Play a few of the text adventure games from the list provided below. Think about how these games are constructed / what the branching narratives look like.
@@ -135,7 +137,7 @@ Exercise goals:
 -	Think about different narrative structures (picaresque, gauntlet, quest, branch-and-bottleneck, etc.) 
 -	Understand distinctions between “performance” and “performative”; critiquing types and effectiveness of interactivity
 
-Instructions:
+### Instructions:
 Using Twine, write a branching story with one or more of the following features:
 
 1. Non-human (or better, non-animal) main character
@@ -145,18 +147,22 @@ Using Twine, write a branching story with one or more of the following features:
 
 Possibly avoid: life simulator, choose your own adventure tropes (walking around in a fictional world, fighting, dying etc.).
 
-Requirements:
+### Requirements:
 - Use the Twine Cookbook for additional help: https://twinery.org/cookbook/
 - Use the Twine non-linear story platform to create a game.
 - You can use the downloaded or online version. If you use the online version, you must save your work by choosing the “Publish to File” option in the settings tab. This will download a .html file that can be opened on any computer.
 
-Resources:
+### Resources:
 Harlowe cookbook: https://twine2.neocities.org/  
 Vegetarian Zombie tutorials: 
   - Part 1 helps you get started with downloading Twine, choosing a story format, and starting and saving a new story: https://www.youtube.com/watch?v=YDUU5yZq4og&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=2  
   - Part 2 focuses on text styling with markdown and proper syntax: https://www.youtube.com/watch?v=Tad1V8q-FsY&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=3  
   - Part 3 introduces you to Passages, which help you form the story architecture and connect your story: https://www.youtube.com/watch?v=Tad1V8q-FsY&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=3  
   - Part 4 walks you through using macros in Twine and basic coding: https://www.youtube.com/watch?v=xYetQV4Jy6E&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=4
+
+### HOW TO GET YOUR GAME ONLINE / HOW TO USE GITHUB TO MAKE A WEBSITE:  
+
+tutorials: https://vimeo.com/showcase/10964162?share=copy
 
 Other games made in Twine:
 - https://itch.io/games/made-with-twine  
