@@ -60,8 +60,8 @@ https://inflatablestudios.itch.io/one-page-solo-engine
 - [The Witch is Dead](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/The%20Witch%20is%20Dead.pdf)  
 
 ... (and MORE!!!!11!)[https://github.com/UICIDEAS/IDEA_130_F24/tree/main/readings/solottrpg)  
-
-## THREE COLOR GAME ASSIGNMENT (Due: 10.29.24)
+-->
+## THREE COLOR GAME ASSIGNMENT (Due: 10.30.25)
 
 Creating a game with restrictions is not only a design challenge meant to consider what constitutes meaningful interactivity (see Saten & Zimmerman) but also forces a game developer to consider disability and gaming. 
 
@@ -102,7 +102,7 @@ https://tiffanyfunk.com/parched/
 https://funkstart.itch.io/punk-show
 https://funkstart.itch.io/old-macdonald
 https://funkstart.itch.io/i-went-to-mars
--->
+
 ## Twine Game (Due: Week 8, 10.14.25)
 
 Create a non-linear game using Twine (https://twinery.org/)  
