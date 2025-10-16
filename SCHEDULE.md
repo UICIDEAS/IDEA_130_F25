@@ -3,14 +3,14 @@
 ![Pentiment](assets/sddefault.jpg)  
 Pentiment, 2022, Obsidian Entertainment  
   
-[Week 1-2](##week-1-2)  
-[Week 3-4](###week-3-4)  
-[Week 5-6](###week-5-6)  
-[Week 7-8](###week-7-8)  
-[Week 9-10](###week-9-10)  
-[Week 11-12](###week-11-12)  
-[Week 13-14](###week-13-14)  
-[Week 15](###week-15)  
+[Week 1-2](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-1-2)  
+[Week 3-4](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-3-4)
+[Week 5-6](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-5-6)  
+[Week 7-8](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-7-8)
+[Week 9-10](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-9-10)
+[Week 11-12](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-11-12)
+[Week 13-14](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-13-14) 
+[Week 15](https://github.com/UICIDEAS/IDEA_130_F25/blob/main/SCHEDULE.md#week-15) 
   
 [ALL ASSIGNMENTS](https://github.com/UICIDEAS/IDEA_130_F25/edit/main/ASSIGNMENTS.md)
   
