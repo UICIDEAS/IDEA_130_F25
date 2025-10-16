@@ -14,7 +14,8 @@ Pentiment, 2022, Obsidian Entertainment
   
 [ALL ASSIGNMENTS](https://github.com/UICIDEAS/IDEA_130_F25/edit/main/ASSIGNMENTS.md)
   
-## Week 1-2 (08.26-09.04): Introduction to Game Studies and Its Scope
+## Week 1-2  
+(08.26-09.04): Introduction to Game Studies and Its Scope
 
 - Definition of game studies as an interdisciplinary field
 - Historical context and evolution of games
@@ -45,7 +46,8 @@ Pentiment, 2022, Obsidian Entertainment
   game:
   - [Everyone is John](readings/eij_v2_2024.pdf)
 
-## Week 3-4 (09.09-09.18): The Historical, Cultural, and Social Significance of Games  
+## Week 3-4 
+(09.09-09.18): The Historical, Cultural, and Social Significance of Games  
 
 - Early forms of play and games
 - Cultural analysis of games
@@ -78,7 +80,8 @@ Pentiment, 2022, Obsidian Entertainment
   
   assignment: GAME ANALYSIS PRESENTATIONS DUE 09.18
   
-## Week 5-6 (09.23-10.02): Game Construction and Development Principles
+## Week 5-6 
+(09.23-10.02): Game Construction and Development Principles
 
 - Exploring fundamental game design principles
 - Player experience and inclusivity/access
@@ -98,7 +101,8 @@ Pentiment, 2022, Obsidian Entertainment
   reading guide:
   - [Week 5: 09.23 & 09.25](readings/130_Week_05_F24.pdf)
 
-  ### Week 6: More about interactivity and game mechanics
+  ### Week 6:
+  More about interactivity and game mechanics
   reading:
   - [Edwards, Benj (April 4, 2017). "The Forgotten World of Teletype Computer Games". PC Magazine.](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games)
   - [Jerz, Dennis (2007). "Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original "Adventure" in Code and in Kentucky". Digital Humanities Quarterly. 1 (2).](http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html)
@@ -111,7 +115,11 @@ Pentiment, 2022, Obsidian Entertainment
 
   [TWINE TIPS AND TRICKS](https://github.com/UICIDEAS/IDEA_130_F25/edit/main/TWINE.md)
 
-  ## Week 7-8 (10.07-10.16): Serious Games and Gamification
+  ### HOW TO GET YOUR GAME ONLINE / HOW TO USE GITHUB TO MAKE A WEBSITE:  
+tutorials: https://vimeo.com/showcase/10964162?share=copy
+
+  ## Week 7-8
+  (10.07-10.16): Serious Games and Gamification
 - Understanding gamification and its applications
 - Gamification in education, healthcare, and business
 - Designing games for non-entertainment purposes
@@ -133,10 +141,11 @@ Pentiment, 2022, Obsidian Entertainment
   - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
   - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf)
  
-  ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/28
+  ### ASSIGNMENT #3: TWO/THREE COLOR GAME ASSIGNMENT, Due: 10/30/25
   - https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIGNMENTS.md
 
-## Week 9-10 (10.21-10.30): Game Creation Methods
+## Week 9-10 
+(10.21-10.30): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
 - Conceptualization and prototyping
@@ -158,7 +167,8 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIG
   - Play two or more, saving your journals.
   - Create a solo TTRPG! (Due Nov. 6th!)
 
-## Week 11-12 (11.04-11.13): Game Theory and Game Dev
+## Week 11-12 
+(11.04-11.13): Game Theory and Game Dev
 
   - simple intro to some Game Theory concepts, its use and limitations
   - linking Game Theory and Game Studies as disciplines
@@ -173,7 +183,8 @@ Assignment: SOLO TTRPG: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIG
 
 Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/ASSIGNMENTS.md#final-game-project-proposals-due-thursday-november-14th-final-due-tuesday-december-3rd
 
-## Week 13-14 (11.18-11.25): Emerging Technologies and Future Trends
+## Week 13-14 
+(11.18-11.25): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
 - Impact of artificial intelligence (AI) on game design
 - Ethical considerations in game development and consumption
@@ -181,7 +192,8 @@ Assignment: FINAL PROJECT: https://github.com/UICIDEAS/IDEA_130_F25/blob/main/AS
 
 ## THANKSGIVING BREAK (11/26-11/28)
 
-## Week 15 (12.02-12.04): Building Communities in Video Games
+## Week 15 
+(12.02-12.04): Building Communities in Video Games
 
 #### Final Game Project (due: Dec 2nd)
 
