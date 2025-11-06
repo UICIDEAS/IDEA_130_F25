@@ -32,8 +32,8 @@ Steps:
 
 3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
 
-
-## SOLO TTRPG (Table Top Role-Playing Game) ASSIGNMENT (Due Thursday, November 7th!)
+-->
+## SOLO TTRPG (Table Top Role-Playing Game) ASSIGNMENT
 
 Try your hand at writing a one-page TTRPG! 
 
@@ -60,7 +60,45 @@ https://inflatablestudios.itch.io/one-page-solo-engine
 - [The Witch is Dead](https://github.com/UICIDEAS/IDEA_130_F24/blob/main/readings/The%20Witch%20is%20Dead.pdf)  
 
 ... (and MORE!!!!11!)[https://github.com/UICIDEAS/IDEA_130_F24/tree/main/readings/solottrpg)  
--->
+
+## PLAY TEST
+
+Choose two games from the following spreadsheet: https://docs.google.com/spreadsheets/d/1a4BnWivqKjmGAyecaSCBV5UkO8yT0phhfwbLJv6VEag/edit?pli=1&gid=0#gid=0  
+
+Due: 11/11
+
+Playtest using these prompts:  
+
+1) Play through ALL endings (or as many as you can)!  
+- Take notes on:
+      - how you think this game branches
+      - the number/feeling of endings, etc.  
+
+2) CHARACTERIZE the game!  
+- What genre do you think this is?  
+- How does it make you feel?  
+- Is it first person, second person, third person, etc.?   
+
+Details:  
+
+3) Technology issues you might find:   
+- Are there any bugs in this game that get in the way of playing it?    
+- Are there any obvious error messages?   
+- Are there obvious type-os, grammar issues, etc.?   
+
+4) Design - Some questions you might ask:    
+- Do you think the background/font/images are appropriate for this game?
+- Do you have suggestions for changes?
+
+FUTURE:
+
+5) What is the future of this game? Some questions you might ask:  
+- Do you think this game should be expanded?
+- Do you think this game should be adapted? 
+- Does it need a sequel? Share on itch.io?
+  
+** Write two paragraphs / bullet pointed notes from your play test that you can give to the game artist.  
+
 ## THREE COLOR GAME ASSIGNMENT (Due: 10.30.25)
 
 ### Create a Bitsy game - a pixel game - with only three colors.
