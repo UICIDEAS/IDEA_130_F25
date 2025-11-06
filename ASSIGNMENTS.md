@@ -69,10 +69,9 @@ Due: 11/11
 
 Playtest using these prompts:  
 
-1) Play through ALL endings (or as many as you can)!  
-- Take notes on:
-      - how you think this game branches
-      - the number/feeling of endings, etc.  
+1) Play through ALL endings (or as many as you can)!  Take notes on:  
+- how you think this game branches
+- the number/feeling of endings, etc.  
 
 2) CHARACTERIZE the game!  
 - What genre do you think this is?  
