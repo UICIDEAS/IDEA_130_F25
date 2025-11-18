@@ -1,4 +1,7 @@
-## FINAL GAME PROJECT (Proposals Due: Tuesday, November 25th; Final Due: Thursday, December 4th)
+## FINAL GAME PROJECT (Proposals Due: Tuesday, November 25th; Final Due: Tuesday, December 2nd!)
+
+## OPTION A:
+### YOUR CHOICE (Gamemaking tool that you choose!)
 
 You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed for class (expanded versions of previous assignments).
 
@@ -24,15 +27,19 @@ Twine
 Renpy (visual novel creator):  
 - https://www.renpy.org/doc/html/quickstart.html
 
-Steps:
+### Steps:
 
-1. Write a short proposal that explains briefly your goals for your game, and which of the above it addresses. We will discuss these in class (November 14). (Note: you can start working on the game itself before then, but a short description of the game with notes is "best practices" and will help in the planning process). Include a justification for the method/tools you will use to construct the game.
+#### 1. Write a short proposal that explains briefly your goals for your game, and which of the above it addresses.
+   We will discuss these in class (November 14). (Note: you can start working on the game itself before then, but a short description of the game with notes is "best practices" and will help in the planning process). Include a justification for the method/tools you will use to construct the game.
 
-2. Keep a development journal for your game. It doesn't need to be long or in-depth, but should log the time you spent working on it, and your wins or frustrations during the process. This is also "best practices" and provides helpful tips for yourself when engaging with the project both in the present and future.
+#### 2. Keep a development journal for your game. 
+  It doesn't need to be long or in-depth, but should log the time you spent working on it, and your wins or frustrations during the process. This is also "best practices" and provides helpful tips for yourself when engaging with the project both in the present and future.
 
-3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
+#### 3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). 
+  We will use these to play test during the final week of class.
 
-## SOLO TTRPG (Table Top Role-Playing Game) ASSIGNMENT
+## OPTION B:
+### SOLO TTRPG (Table Top Role-Playing Game)
 
 Try your hand at writing a one-page TTRPG! 
 
