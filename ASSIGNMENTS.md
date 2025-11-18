@@ -1,4 +1,4 @@
-<!--- ## FINAL GAME PROJECT (Proposals Due: Thursday, November 14th; Final Due: Tuesday, December 3rd)
+## FINAL GAME PROJECT (Proposals Due: Thursday, November 14th; Final Due: Tuesday, December 3rd)
 
 You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed for class (expanded versions of previous assignments).
 
@@ -32,7 +32,6 @@ Steps:
 
 3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
 
--->
 ## SOLO TTRPG (Table Top Role-Playing Game) ASSIGNMENT
 
 Try your hand at writing a one-page TTRPG! 
