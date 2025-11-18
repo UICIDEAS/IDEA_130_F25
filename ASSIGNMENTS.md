@@ -1,4 +1,4 @@
-## FINAL GAME PROJECT (Proposals Due: Thursday, November 14th; Final Due: Tuesday, December 3rd)
+## FINAL GAME PROJECT (Proposals Due: Tuesday, November 25th; Final Due: Thursday, December 4th)
 
 You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed for class (expanded versions of previous assignments).
 
